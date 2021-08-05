@@ -1,4 +1,4 @@
-#!/bin/bash \
+#!/bin/bash
 
 # initialize variables
 wireguard_server_dir="/etc/wireguard"
